@@ -1,0 +1,18 @@
+This application demonstrates the use of the .NET framework to create a CRUD application that using C#, HTML, JavaScript and more to access a database and display information.
+Additionally, the layout of this applicaiton's core concepts include:
+ 1.) ASP.NET MVC fundamentals
+  - As can be seen in this application the fundamentals of MVC are covered by showing how the components of an MVC application work together.
+ 2.) Entity Framework
+  - This application has an attached database that stores game entries and uses the models to get the data from the database to display in a view.
+ 3.) Forms are handled in this application as a way of pulling additional information for users and inserting that data into the forementioned database
+ 4.) Validation - when handling user input validation is an important topic to make sure proper catches are in place to insure faulty data is not enered into the database
+ 5.) RESTful services - 
+ 6.) Client-side development
+ 7.) Authentication and Authorization
+ 8.) Performance Optimization
+ 
+ Thats the GameHub rental service application in a nutshell. I hope you have as much fun interacting with the service as i did creating it.
+ Future plans for this web application begin after the performance optimization. The next step will be to publically host the website and make a plan
+ for possible scalability and way to include techniques from this project in even more challenging projects.
+ 
+ Enjoy, Best wishes!
